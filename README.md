@@ -106,7 +106,7 @@ The graphical representation of top 10 locations shows us that most of the tweet
 
 <h2> :clipboard: Execution Instruction</h2>
 <p>The order of execution of the colab notebook is as follows:</p>
-<p><b>1) MODEL.ipynb</b></p>
+<p><b>1) Coronavirus_tweet_sentiment_analysis.ipynb</b></p>
 <p>First, click on the open in colab button present on the top center of the notebook.</p>
 <p><b>2) Kaggle Dataset</b></p>
 <p>Downlaod the dataset from kaggle through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.</p>
