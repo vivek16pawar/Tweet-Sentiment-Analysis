@@ -5,6 +5,10 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
+  <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="netflix-logo-png-2574.png" width="700px" height="500px">
+</p>
+
+<p align="center"> 
   
 </p>
 
