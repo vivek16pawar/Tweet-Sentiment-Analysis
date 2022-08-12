@@ -1,20 +1,20 @@
 <p align="center"> 
-  <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
+  
 </p>
 <h1 align="center">Tweet Sentiment Analysis  </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
-  <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="netflix-logo-png-2574.png" width="700px" height="500px">
+  
 </p>
 
-<p>We have build system to check the sentiment of the user based on the tweets  </p>
+<p>We have build system to check the sentiment of the user based on the tweets, it is categorized into positive sentiments or negative sentiment. </p>
 
 <h2> :floppy_disk: Project Files Description</h2>
 
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>MODEL.ipynb</b> - Includes all functions required for classification operations.</li>
+  <li><b>Coronavirus_tweet_sentiment_analysis.ipynb</b> - Includes all functions required for classification operations.</li>
 </ul>
 
 <h4>Output:</h4>
@@ -24,7 +24,7 @@
 
 <h4>Data Source:</h4>
 <ul>
-  <li><b>Dataset</b> - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata</li>
+  <li><b>Dataset</b> - https://www.kaggle.com/datasets/lopezbec/covid19-tweets-dataset</li>
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -32,7 +32,10 @@
 <h2> :book: Business Problem And Objective </h2>
 
 <p
-   
+
+  Sentiment analysis refers to identifying as well as classifying the sentiments that are expressed in the text source. Tweets are often useful in generating a vast amount of sentiment data upon analysis. These data are useful in understanding the opinion of the people about a variety of topics.
+
+Therefore we need to develop an Automated Machine Learning Sentiment Analysis Model in order to compute the customer perception. Due to the presence of non-useful characters (collectively termed as the noise) along with useful data, it becomes difficult to implement models on them.
    
    
 
@@ -45,7 +48,10 @@
 
 <p
 
- 
+- Location : Location from where tweets are done
+- Tweet At : Date and time of the tweet
+- Original Tweet : Context of the tweet
+- Label : Sentiment of the tweet
    
 
 </p>
