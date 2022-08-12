@@ -55,6 +55,47 @@ Therefore we need to develop an Automated Machine Learning Sentiment Analysis Mo
    
 
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> 📙: Findings and Results </h2>
+
+<p
+
+Original Dataset contains 6 columns and 41157 rows.
+Location column contains null values. So, we have dropped the null values.
+And we added a new column "clean_tweets" after cleaning the tweets.
+After dropping and adding a new column, now we have 7 columns and 32567 rows.
+In order to analyze the data we required only two columns "OriginalTweet" and "Sentiment".
+The columns such as "UserName" and "ScreenName" does not give any meaningful insights for our analysis.
+There are five types of sentiments - Extremely Positive, Positive, Extremely Negative, Negative and Neutral.
+We have renamed the Extremely Positive and Extremely Negative sentiments to Positive and Negative respectively. And we are left with three types of sentiments - Positive, Negative and Neutral.
+The pie chart shows the proportion of sentiments.
+Bar plot for unique values shows us the number of unique values in each column.
+The graphical representation of top 10 locations shows us that most of the tweets came from London followed by United States.
+   
+   
+- For multiclass classification, the best model for this dataset would be Logistic Regression
+
+- For binary classification, the best model for this dataset would be Stochastic Gradient Descent.
+   
+
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :book: About Dataset </h2>
+
+<p
+
+- Location : Location from where tweets are done
+- Tweet At : Date and time of the tweet
+- Original Tweet : Context of the tweet
+- Label : Sentiment of the tweet
+   
+
+</p>
                   
                   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
