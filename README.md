@@ -1,5 +1,5 @@
 <p align="center"> 
-  
+<img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center">Tweet Sentiment Analysis  </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
